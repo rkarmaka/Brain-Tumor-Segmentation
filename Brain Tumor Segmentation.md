@@ -1,9 +1,8 @@
+# Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 
 <img src="https://miro.medium.com/max/2652/1*eTkBMyqdg9JodNcG_O4-Kw.jpeg" width="100%">
 
 [Image Source](https://medium.com/stanford-ai-for-healthcare/its-a-no-brainer-deep-learning-for-brain-mr-images-f60116397472)
-
-# Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 
 We will build a neural network to automatically segment tumor regions in brain, using [MRI (Magnetic Resonance Imaging](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)) scans.
 
